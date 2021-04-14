@@ -2,7 +2,6 @@
 #include <string>
 #include "monstre.cpp"
 
-
 using namespace std;
 
 int main(){

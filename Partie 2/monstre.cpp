@@ -34,7 +34,7 @@ void Monstre::Attaque(){
     else { cout << "Le monstre est au repos !";}
 }
 
-void Monstre::Damage(int nbratq){
+void Monstre::Dommage(int nbratq){
     _pv = _pv - nbratq;
 
     if (_pv < 0)

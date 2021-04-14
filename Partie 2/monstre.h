@@ -20,7 +20,7 @@ class Monstre
     Monstre(std::string _nom, int _pv, int _atq, bool _repos, bool _etat) ;
     void Affiche() ;
     void Attaque() ;
-    void Damage(int nbratq) ;
+    void Dommage(int nbratq) ;
     void FinTour();
     int getatq() const ;
     int getetat() const ;
