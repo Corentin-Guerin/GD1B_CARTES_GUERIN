@@ -15,11 +15,11 @@ int main(){
 
     cout << "Joueur 1 Invoquation ! " << endl;
     Joueur1.Invoquer();
-    Joueur1.AfficherMage();
+    Joueur1.AfficheMage();
   
     cout << "Joueur 2 invoquation ! " << endl;
     Joueur2.Invoquer();
-    Joueur2.AfficherMage();
+    Joueur2.AfficheMage();
 
 
     return 0;
